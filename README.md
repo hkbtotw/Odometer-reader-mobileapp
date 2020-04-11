@@ -7,7 +7,7 @@
 <p><br>note:</br></p>
 <p>Coding:</p>
 <i>1. Use WebView to create Mobile app from the existing webapp </i><br />
-<i>2. Use "https://" to avoid cleartext error   </i> <br />
+<i>2. Use "https://" to avoid cleartext error   </i> <br /><br />
 <p>Usage:</p>
 <i>1.Beware of the size of image to be tested. </i><br />
 <i> e.g. from Camera, must keep image size at medium (with 6M resolution camera) not too high  </i> <br />
