@@ -11,8 +11,9 @@
 <p>Usage:</p>
 <i>1.Beware of the size of image to be tested. </i><br />
 <i> e.g. from Camera, must keep image size at medium (with 6M resolution camera) not too high  </i> <br />
-<i> from folder, make sure the selected image not haveing size too large and too small</i><br />
+<i> from folder, make sure the selected image not haveing size too large and too small</i><br /><br />
 
+<b>credit: <i>https://www.youtube.com/watch?v=Nl3EEoIjBzA</i> </b><br /><br />
 
 <b>Sample Images:<br/></b>
 Mobile Application Version of Odometer Reader Apllication
